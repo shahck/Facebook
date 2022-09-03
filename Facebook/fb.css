@@ -1,0 +1,152 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #ffff;
+    font-size: 11px;
+}
+.login-control{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #ffff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: rgb(189, 157, 157);
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 39%;
+    float: left; 
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 600px;
+}
+.image{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.place{
+height: 24px;
+width: 200px;
+border-radius: 5px;
+font-size: 15px;
+border-color: #fff;
+}
+#style{
+    border: solid 1px;
+    border-color: gray;
+    margin-top: 0;
+}
+.mobileoremail{
+    height: 24px;
+    width: 412px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #fff;
+    margin-top: 20px;
+}
+.birth{
+    color: #9b9b9c;
+    font-weight: bold;
+}
+.gender{
+    color: #9b9b9c;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+.gen{
+    padding-top: 10px;
+    font-weight: bold;
+}
+.bottom_p{
+    color: #6c6d71;
+    
+}
+.fck{
+    color: #3b5998;
+    text-decoration: none;
+}
+.button{
+    border-radius: 10px;
+    color: white;
+    background: green;
+    border-color: white;
+    width: 150px;
+    height: 39px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #4267b2;
+}
+.last{
+    text-decoration: none;
+}
+.footer1 li{
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 14px;
+}
+.footer2 li{
+    display: inline-block;
+    margin-left: 36px;
+    margin-top: 6px;
+    font-size: 14px;
+}
+.footer2 li:hover{
+    cursor: pointer;
+    color: rgb(10, 47, 236);
+}
+.last_footer{
+    color: #9b9b9c;
+    font-size: 12px;
+    margin-left: 76px;
+}
